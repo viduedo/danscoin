@@ -1,0 +1,9 @@
+Building DAN$coin
+
+See doc/readme-qt.rst for instructions on building DAN$coin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DAN$coin.
+
+See doc/build-*.txt for instructions on building danscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DAN$coin.
